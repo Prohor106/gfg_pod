@@ -33,7 +33,7 @@ int main() {
     cin.tie(0), cout.tie(0);
 
     ll t=1, cs=1;
-    //cin>>t;
+    cin>>t;
     while(t--) {
         solve(cs++);
     }
